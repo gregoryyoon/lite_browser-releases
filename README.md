@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.11-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.11" /></a>
+  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.12-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.12" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D4.svg?logo=windows&logoColor=white" alt="Platform Windows 64-bit" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Engine-CEF%20154%20(Chromium%20154)-FF6F00.svg?logo=googlechrome&logoColor=white" alt="CEF 154 / Chromium 154" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/UI-Bento%20Grid%20%2F%20Lucide%20SVG-F7DF1E.svg?logo=javascript&logoColor=black" alt="Bento Grid & Lucide SVG" /></a>
@@ -51,7 +51,7 @@
 - **화이트 플래시(White Flash) 제로**: Win32 네이티브 윈도우 배경 브러시와 DWM 다크 모드를 완벽히 연동하여 창 전환이나 페이지 로딩 시 눈부심이 없는 쾌적한 다크 모드를 제공합니다.
 
 ### ◫ 3. 프로페셔널 멀티태스킹: 듀얼 화면 분할 (Dual Split-View) & 자유로운 탭 관리
-- **내장 듀얼 화면 분할 (Split-View)**: 별도 확장 프로그램 없이 클릭 한 번으로 단일 탭 내에서 좌/우 2개의 웹페이지를 동시에 비교하고 작업할 수 있습니다 (0.2 ~ 0.8 비율 자유 조절).
+- **내장 듀얼 화면 분할 (Split-View)**: 별도 확장 프로그램 없이 클릭 한 번으로 단일 탭 내에서 좌/우 2개의 웹페이지를 동시에 비교하고 작업할 수 있습니다 (0.2 ~ 0.8 비율 자유 조절, 분할 즉시 현재 페이지 자동 복제 로드).
 - **스마트 탭 매니지먼트**:
   - 탭이 많아져도 자동으로 균등 축소되어 한눈에 파악되는 모던 탭바.
   - 현재 보던 페이지 바로 옆에 새 탭을 열어주는 스마트 상대 위치 삽입.
@@ -62,6 +62,7 @@
 - **Claude & ChatGPT 유료 구독 모델 직접 연동**: 별도 종량제 API Key 발급 없이 기존 **ChatGPT Plus/Pro**, **Claude Pro** 구독 계정 연동과 **Google Gemini**, 로컬 **Ollama** 모델을 모두 지원합니다.
 - **실시간 웹페이지 인플레이스 번역**: 해외 웹페이지의 DOM 구조를 보존한 채 자연스러운 한국어로 즉시 번역하고 원문/번역문을 양방향으로 토글합니다.
 - **자율 탭 제어 & AI 웹 자동화**: 자연어 명령을 통한 탭 생성/분할/정리, 스마트 본문 및 YouTube 영상 요약, 복합 웹 탐색/입력 자동화를 지원합니다.
+- **TOAST UI 마크다운 뷰어 & 에디터 내보내기**: 사이드패널 AI 대화 결과물을 코드 하이라이팅, 수식, 표(테이블)가 완벽 렌더링된 마크다운 문서로 확인하고, 클릭 한 번으로 내장 전체화면 위지웍 에디터(TOAST UI Editor) 새 탭으로 전달하여 이어쓸 수 있습니다.
 - **Windows DPAPI 보안 볼트**: 사용자 로그인 세션 토큰 및 API 키를 Windows OS 수준 암호화(`CryptProtectData`)로 로컬에 안전하게 격리 보관합니다.
 
 ### 🔍 5. 지능형 옴니박스 & 스마트 북마크 (`lite://favorites`)
