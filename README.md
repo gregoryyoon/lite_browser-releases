@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.14-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.14" /></a>
+  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.15-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.15" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D4.svg?logo=windows&logoColor=white" alt="Platform Windows 64-bit" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Engine-CEF%20154%20(Chromium%20154)-FF6F00.svg?logo=googlechrome&logoColor=white" alt="CEF 154 / Chromium 154" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/UI-Bento%20Grid%20%2F%20Lucide%20SVG-F7DF1E.svg?logo=javascript&logoColor=black" alt="Bento Grid & Lucide SVG" /></a>
@@ -81,6 +81,11 @@
 ### 🔄 8. 무음 백그라운드 자동 업데이트 & Windows 10/11 셸 연동
 - **방해 없는 무음 업데이트**: 브라우징 중 백그라운드에서 최신 설치 파일을 수신하고 `WinVerifyTrust` 전자 서명을 검증한 뒤, 툴바 알림 뱃지 클릭 한 번으로 즉시 업데이트합니다.
 - **원클릭 기본 브라우저 연동**: 설정 화면에서 Windows 기본 브라우저로 간편하게 등록 및 상태를 확인할 수 있습니다.
+
+### 🛡️ 9. 탭별 2모드 보안 브라우저 & 생성형 AI 기밀 유출 방지 (Personal / Enterprise 선택)
+- **완벽히 분리된 개인용 · 엔터프라이즈 에디션**: 기본 실행은 순수 일반 브라우저(개인용)로 가볍게 동작하며, 필요 시 설정(`lite://settings`)에서 엔터프라이즈 보안 모드로 전환해 업무 환경에 맞는 강력한 보안 기능을 활성화할 수 있습니다.
+- **탭 단위 2대 보안 모드 격리**: 일반 탭과 분리된 비영속 보안 탭으로 **내부 직원용(Work Zone Smart DLP: 사내/외부망 자동 감지, 개인 계정 읽기 전용 격리, 개인정보 마스킹, 화면 캡처 방지)** 과 **외부 개발자용(VDI Sandbox: 단말 보안 점검, 비인가 클라우드·파일 업로드 차단, 종료 시 Crypto-Wipe 완전 파기)** 을 지원합니다.
+- **생성형 AI 기밀 유출 방지 (GenAI DLP Guard)**: 외부 AI 서비스 및 내장 AI 사이드패널 사용 시 API 키, 사내 인프라 정보, 개인정보, 소스코드 유출을 실시간 탐지해 자동 익명화·승인 검토·차단을 수행합니다.
 
 ---
 
