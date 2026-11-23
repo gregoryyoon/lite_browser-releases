@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.16-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.16" /></a>
+  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.17-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.17" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D4.svg?logo=windows&logoColor=white" alt="Platform Windows 64-bit" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Engine-CEF%20154%20(Chromium%20154)-FF6F00.svg?logo=googlechrome&logoColor=white" alt="CEF 154 / Chromium 154" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/UI-Bento%20Grid%20%2F%20Lucide%20SVG-F7DF1E.svg?logo=javascript&logoColor=black" alt="Bento Grid & Lucide SVG" /></a>
@@ -63,6 +63,9 @@
 - **실시간 웹페이지 인플레이스 번역**: 해외 웹페이지의 DOM 구조를 보존한 채 자연스러운 한국어로 즉시 번역하고 원문/번역문을 양방향으로 토글합니다.
 - **자율 탭 제어 & AI 웹 자동화**: 자연어 명령을 통한 탭 생성/분할/정리, 스마트 본문 및 YouTube 영상 요약, 복합 웹 탐색/입력 자동화를 지원합니다.
 - **TOAST UI 마크다운 뷰어 & 에디터 내보내기**: 사이드패널 AI 대화 결과물을 코드 하이라이팅, 수식, 표(테이블)가 완벽 렌더링된 마크다운 문서로 확인하고, 클릭 한 번으로 내장 전체화면 위지웍 에디터(TOAST UI Editor) 새 탭으로 전달하여 이어쓸 수 있습니다.
+- **오프라인 PDF AI 심층 검색·Q&A & 페이지 점프**: 열린 PDF 문서의 본문 검색·질의응답·스캔 페이지 시각 분석과 답변 속 페이지 인용 클릭 즉시 이동을 오프라인 엔진으로 지원합니다.
+- **다운로드 폴더 AI 어시스턴트**: 다운로드 폴더의 PDF·Office 문서·압축파일·이미지를 오프라인 분석·검색하고, 승인 카드와 Windows 휴지통 보호를 거쳐 안전하게 폴더 정리 및 리포트 저장을 수행합니다.
+- **AI-Native 질문 카드 · 쇼츠/미디어 제작 & 컴팩트 도구카드**: 인터랙티브 의사결정 질문 카드, AI 이미지·음성 생성 및 9:16 쇼츠 영상 로컬 합성, 한눈에 보기 쉬운 1행 접이식 도구카드 타임라인을 제공합니다.
 - **Windows DPAPI 보안 볼트**: 사용자 로그인 세션 토큰 및 API 키를 Windows OS 수준 암호화(`CryptProtectData`)로 로컬에 안전하게 격리 보관합니다.
 
 ### 🔍 5. 지능형 옴니박스 & 스마트 북마크 (`lite://favorites`)
