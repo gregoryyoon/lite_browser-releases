@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.18-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.18" /></a>
+  <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Release-v0.2.19-brightgreen.svg?logo=github&logoColor=white" alt="Latest Release v0.2.19" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Platform-Windows%2064--bit-0078D4.svg?logo=windows&logoColor=white" alt="Platform Windows 64-bit" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/Engine-CEF%20154%20(Chromium%20154)-FF6F00.svg?logo=googlechrome&logoColor=white" alt="CEF 154 / Chromium 154" /></a>
   <a href="https://github.com/gregoryyoon/lite_browser-releases/releases/latest"><img src="https://img.shields.io/badge/UI-Bento%20Grid%20%2F%20Lucide%20SVG-F7DF1E.svg?logo=javascript&logoColor=black" alt="Bento Grid & Lucide SVG" /></a>
